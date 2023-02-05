@@ -1,0 +1,21 @@
+§ describe what the program does
+
+this program takes a text file of people, checks and corrects the input and asks for a correction if the phone number 
+or id does not follow standards. it then puts them into a object, and pickles the list of the objects.
+
+
+§ explain how to run it
+
+to run it, run the file and input the file path. then input any corrections it asks for.
+
+
+§ write a couple of sentences describing the strengths/weaknesses of Python for text processing, in your opinion
+
+When I was using python to program this assignment, I found it very easy to use and read. I also found the availability of functions that cover many use cases very convenient.
+However, with larger amounts of data and tasks that require more processing power, Python would not perform as well. Additionally, Python has a slower execution time compared to 
+other languages, like Java.
+
+
+§ write a couple of sentences describing what you learned in this assignment, or what was a review for you
+This was my first assignment using Python. I was pleasantly surprised at how easy it was to use, and how vast the libraries were. Since I often work in object oriented languages,
+much of the logic and data structures were things I was already familiar with.
